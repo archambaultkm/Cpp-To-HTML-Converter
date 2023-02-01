@@ -1,0 +1,3 @@
+/Users/kaitlynarchambault/Documents/IT_Programming/Winter_2023/PROG2100 - C++/Assign1/cmake-build-debug/CMakeFiles/Assign1.dir
+/Users/kaitlynarchambault/Documents/IT_Programming/Winter_2023/PROG2100 - C++/Assign1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kaitlynarchambault/Documents/IT_Programming/Winter_2023/PROG2100 - C++/Assign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
