@@ -14,4 +14,11 @@ using namespace std;
 void convertFile(string, string);
 bool fileValidation(string);
 
+struct MyFileValidationException : public exception {
+public:
+    const string what() {
+        return "Failed file format validation.";
+    }
+};
+
 #endif //ASSIGN1_CPPTOHTML_H
